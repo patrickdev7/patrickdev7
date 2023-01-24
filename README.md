@@ -22,7 +22,7 @@
 ![tailwind](https://img.shields.io/badge/-tailwind-grey?style=for-the-badge&logo=tailwind&logoColor=white&labelColor=8E2DE2)
   
 
-![nodejs](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node&logoColor=white&labelColor=8E2DE2)
+![nodejs](https://img.shields.io/badge/-nodejs-grey?style=for-the-badge&logo=nodejs&logoColor=white&labelColor=8E2DE2)
 ![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
 ![ADVPL](https://img.shields.io/badge/-advpl-grey?style=for-the-badge&logo=advpl&logoColor=white&labelColor=8E2DE2)
 ![TOTVS](https://img.shields.io/badge/-totvs-grey?style=for-the-badge&logo=totvs&logoColor=white&labelColor=8E2DE2)
